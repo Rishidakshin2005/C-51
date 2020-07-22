@@ -1,0 +1,17 @@
+h1{
+    background-color: blue;
+
+}
+.carry{
+    display:flex;
+    background-color: chocolate;
+    justify-content: center;
+    border:5px dashed red;}
+
+body{
+    background-color: #808080;
+    font-style: italic;
+font-size: 20px;
+font-family: 'Times New Roman';
+color:greenyellow;
+}
